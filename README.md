@@ -28,6 +28,6 @@ I love diving into the world of coding and constantly expanding my knowledge. My
 <h1 align="center"> 🙃 discord</h3>
 <div align="center">
 <a href="https://discord.com/users/535750341053120522" target="_blank">
-    <img src="https://api.lanyard.rest/v1/users/535750341053120522?animated=false" alt="Aladdin">
+    <img src="https://api.lanyard.rest/v1/users/535750341053120522?animated=true" alt="Barqoqa">
 </a>
 </div>
