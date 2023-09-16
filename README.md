@@ -1,6 +1,6 @@
 <h1 align="center"> 💻 About Me</h3>
 
-I'm Barqoqa, a programming enthusiast with a passion for learning new things. I'm not confined to a single specialization and I enjoy exploring various aspects of technology and programming.
+I'm Aladdin, a programming enthusiast with a passion for learning new things. I'm not confined to a single specialization and I enjoy exploring various aspects of technology and programming.
 
 
 
@@ -28,6 +28,6 @@ I love diving into the world of coding and constantly expanding my knowledge. My
 <h1 align="center"> 🙃 discord</h3>
 <div align="center">
 <a href="https://discord.com/users/535750341053120522" target="_blank">
-    <img src="https://api.lanyard.rest/v1/users/535750341053120522" alt="Barqoqa">
+    <img src="https://api.lanyard.rest/v1/users/535750341053120522?animated=false" alt="Aladdin">
 </a>
 </div>
