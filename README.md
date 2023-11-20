@@ -1,6 +1,6 @@
 <h1 align="center"> 💻 About Me</h3>
 
-I'm Aladdin, a programming enthusiast with a passion for learning new things. I'm not confined to a single specialization and I enjoy exploring various aspects of technology and programming.
+I'm Barqoqa, a programming enthusiast with a passion for learning new things. I'm not confined to a single specialization but, I enjoy exploring various aspects of technology and programming.
 
 
 
